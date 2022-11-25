@@ -1,7 +1,18 @@
-# BigDataP3
+<div> 
+<img src="https://res-5.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1455514364/pim02bzqvgz0hibsra41.png" align="right"><br><br><FONT FACE="times new roman" SIZE=5>
+<b></b>
+<br>
+<i><b>Docente:</b></i> Camilo Rodiguez
+<br>
+<i><b>Asignatura:</b></i> Big Data  
+<br>
+<i><b>Estudiante:</b></i> Nestor Ivan Morales Calixto
+<br>
+<i><b>Tema:</b></i> Tercer Parcial. 
+<br>
+<br>
+25/11/2022
+<br>
+</FONT>
+</div>
 
-
-* Punto1 está la invocación del punto 1 del parcial. En él se descargan las imágenes de https://misanimales.com/ . 
-* punto2 está la invocación del punto 2 del parcial. En él está la función que analiza las imágenes descargadas en un bucket de S3 haciendo uso de rekognition.
-* punto3 está la generación de la base de datos de dynamoDB
-* punto4 están un par de consultas a la base de datos.
